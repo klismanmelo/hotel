@@ -8,3 +8,6 @@
 ## Comece projeto
 - Acessar a pasta do projeto e rodar ``python manage.py runserver``
 - Acessar a URL http://127.0.0.1:8000/administracao
+- Rodar o comando ``python manage.py createsuperuser``
+- Definir usuário e senha
+- Logar na administração
